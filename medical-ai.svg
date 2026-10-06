@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+<defs><radialGradient id="g" cx="35%" cy="30%"><stop stop-color="#f5ffd4"/><stop offset=".38" stop-color="#c8f13c"/><stop offset="1" stop-color="#45561e"/></radialGradient><filter id="blur"><feGaussianBlur stdDeviation="18"/></filter></defs>
+<rect width="800" height="800" rx="400" fill="#171b12"/>
+<circle cx="400" cy="400" r="290" fill="url(#g)" opacity=".96"/>
+<circle cx="400" cy="400" r="205" fill="#111" opacity=".86"/>
+<ellipse cx="400" cy="400" rx="150" ry="185" fill="#d9e5c0" opacity=".9"/>
+<path d="M350 245c-52 35-67 93-45 142 19 43 12 83-17 129m162-271c52 35 67 93 45 142-19 43-12 83 17 129M318 330c49 28 115 28 164 0M306 438c56-25 132-25 188 0" fill="none" stroke="#26301c" stroke-width="17" stroke-linecap="round" opacity=".75"/>
+<g fill="#dfff58" filter="url(#blur)"><circle cx="200" cy="185" r="22"/><circle cx="615" cy="220" r="18"/><circle cx="650" cy="570" r="24"/></g>
+<g stroke="#dfff58" stroke-width="2" opacity=".5"><path d="M70 650L260 510L400 650L570 480L730 610"/><path d="M90 130L250 220L400 90L550 210L720 130"/></g>
+<g fill="#dfff58"><circle cx="70" cy="650" r="6"/><circle cx="260" cy="510" r="6"/><circle cx="400" cy="650" r="6"/><circle cx="570" cy="480" r="6"/><circle cx="730" cy="610" r="6"/><circle cx="90" cy="130" r="6"/><circle cx="250" cy="220" r="6"/><circle cx="400" cy="90" r="6"/><circle cx="550" cy="210" r="6"/><circle cx="720" cy="130" r="6"/></g>
+</svg>
